@@ -1,8 +1,8 @@
-# 👋 Hello, I'm 
+# 👋 Hello, I'm Abdullah Ibrahim Ahmed
 
 ![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=100&section=header&text=Abdullah%20Ibrahim&fontSize=30&fontColor=ffffff)
 
-🎯 **Junior .NET Developer | Backend Enthusiast | Machine Learning Enthusiastic**
+🎯 **Junior .NET Developer | Backend Developer | Machine Learning Enthusiast**
 
 🚀 Fresh Computer Science – Software Engineering graduate passionate about building clean, scalable, and maintainable systems.
 
