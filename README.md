@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Abdullah Ibrahim Ahmed
+# 👋 Hello, I'm 
 
 ![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=100&section=header&text=Abdullah%20Ibrahim&fontSize=30&fontColor=ffffff)
 
-🎯 **Junior .NET Developer | Backend Enthusiast | Problem Solver**
+🎯 **Junior .NET Developer | Backend Enthusiast | Machine Learning Enthusiastic**
 
-🚀 Fresh Computer Science – Software Engineering graduate passionate about building clean, scalable, and maintainable systems using Microsoft technologies.
+🚀 Fresh Computer Science – Software Engineering graduate passionate about building clean, scalable, and maintainable systems.
 
 ---
 
@@ -12,20 +12,12 @@
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulllahhh&show_icons=true&theme=radical" alt="Abdullah's GitHub Stats" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulllahhh&theme=radical" alt="Abdullah's GitHub Streak" width="450"/>
-</p>
 
 ---
 
